@@ -6,6 +6,6 @@ Interpretable wavelet transformer‐enhanced framework for unsupervised deformab
 
 
 
-Reference:
+###### Reference:
 https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration
 https://github.com/x-xc/WiNet
