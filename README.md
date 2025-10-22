@@ -3,12 +3,12 @@
 ## _Interpretable wavelet transformer‐enhanced framework for unsupervised deformable image registration[J]. Medical Physics, 2025, 52(10): e70056._
 
 # Baseline Models:
-1. SyN \
-2. VoxelMorph\
-3. ViT-V-Net\
-4. nnForme\
-5. TransMorph \
-6. TransMatch \
+1. SyN
+2. VoxelMorp
+3. ViT-V-Net
+4. nnForme
+5. TransMorph 
+6. TransMatch 
 7. UTSRMorph
 
 
