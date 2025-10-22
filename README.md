@@ -1,6 +1,6 @@
 # WaveMorph
 
-# _Interpretable wavelet transformer‐enhanced framework for unsupervised deformable image registration[J]. Medical Physics, 2025, 52(10): e70056._
+## _Interpretable wavelet transformer‐enhanced framework for unsupervised deformable image registration[J]. Medical Physics, 2025, 52(10): e70056._
 
 
 # Reference:
